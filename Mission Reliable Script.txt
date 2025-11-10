@@ -1,0 +1,8 @@
+The film opens in chaos — alarms blaring through the Louvre as the president rushes through shattered glass and flashing lights. Priceless jewels are gone. No alarms were tripped, no cameras caught the thieves, and the museum’s world-famous security system, built to be flawless, worked exactly as designed.
+
+Desperate for answers, the president calls in Detective Marc Delacroix, a calm, meticulous investigator with a reputation for solving the unsolvable. He meets Alex Moreau, the Louvre’s brilliant Reliability Engineer — the man responsible for testing and guaranteeing the museum’s system would never fail.
+
+At first, Alex is helpful, guiding Marc through every subsystem and audit log. Everything checks out — too perfectly. As the investigation stalls, Marc begins to doubt himself. The system seems airtight; maybe the crime was simply impossible.
+
+But then, as Marc prepares to close the case, one small detail catches his eye:
+a reliability test labeled “Failover Protocol 7 – Redundancy 
